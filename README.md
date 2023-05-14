@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AniSantosAni
-- 💞️ I am a data analyst
+- 💞️ I love coding
 - 👀 I’m interested in coding and music
 - 🌱 I love nature 
 
